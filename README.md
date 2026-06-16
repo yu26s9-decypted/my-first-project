@@ -1,6 +1,6 @@
 # My First Project
 
-My very first Java program, written at the start of my coding journey at **LTCA (Liftoff Tech Career Accelerator)**.
+My very first Java program, written at the start of my coding journey at **Year Up United — Learn to Code Academy (LTCA)**.
 
 ## About This Project
 
